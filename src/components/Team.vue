@@ -44,7 +44,7 @@ export default {
                 },
             ],
             settings: {
-                arrows: true,
+                arrows: false,
                 dots: true,
                 slidesToShow: 3,
                 responsive: [

@@ -39,7 +39,7 @@ export default {
         }
     },
     watch:{
-        show(){
+        show() {
             if (this.show){
                 document.body.style.overflow = "hidden"
             } else {

@@ -59,6 +59,7 @@ export default {
 
 @media only screen and (max-width: 500px) {
     .cards {
+        overflow: hidden;
         &__container {
             flex-direction: column;
         }
